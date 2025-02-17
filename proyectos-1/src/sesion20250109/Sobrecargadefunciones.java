@@ -5,7 +5,19 @@ public class Sobrecargadefunciones {
   //Moda (double[]): Encuentra el valor más frecuente en un arreglo de números decimales.
   //Mediana (String[]): Determina la mediana (orden alfabético) de un arreglo de cadenas.
 
-  public static void main(String[] args) {
+  public static double calcular(int[] numeros) {
+       int suma = 0;
+    for (int num = numeros) {
+      suma += num;
+    }
+    /**
+     * Calcula la media de un arreglo de números enteros.
+     */
+    return suma / numeros.length;
+    public static double calcular(double[] numeros) {
+      double moda = 0;
+      
+
     
 
 

@@ -84,6 +84,22 @@ public class Crearclasefraccion {
         return numerador + "/" + denominador;
     }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
 //Empezamos a instanciar objetos de la clase creada anteriormente y a aplicar los métodos creados si procede
     public static void main(String[] args) {
         /** 
