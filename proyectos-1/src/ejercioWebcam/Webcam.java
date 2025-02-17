@@ -1,4 +1,4 @@
-package sesion20250109;
+package ejercioWebcam;
 /*
  * # Ejercicio: Clase Webcam📸
 ## Objetivo
