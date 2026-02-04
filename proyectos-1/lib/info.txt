@@ -1,0 +1,10 @@
+Descargar en esta carpeta los .jar con los conectores jdbc
+
+para Mysql: (XAMPP):
+mariadb-java-client-3.5.3.jar (por ejemplo)
+mariadb-java-client-3.5.3.jar
+
+para SQLite (DBeaver):
+sqlite-jdbc-3.49.1.0.jar (por ejemplo)
+url: sqlite-jdbc-3.49.1.0.jar
+https://github.com/xerial/sqlite-jdbc/releases/download/3.49.1.0/sqlite-jdbc-3.49.1.0.jar
